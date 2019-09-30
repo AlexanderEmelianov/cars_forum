@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.ide.vscode:commons-util:1.7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/ide/vscode/commons-util/1.7.0-SNAPSHOT/commons-util-1.7.0-20190524.083931-62.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/ide/vscode/commons-util/1.7.0-SNAPSHOT/commons-util-1.7.0-20190524.083931-62-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/ide/vscode/commons-util/1.7.0-SNAPSHOT/commons-util-1.7.0-20190524.083931-62-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
